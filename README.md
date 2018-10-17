@@ -1,4 +1,4 @@
-Connecting to Cosmos DB Mongo API from Qlik Sense using the Qlik MongoDB
+## Connecting to Cosmos DB Mongo API from Qlik Sense using the Qlik MongoDB
 Connector
 
 COSMOS DB OVERVIEW
