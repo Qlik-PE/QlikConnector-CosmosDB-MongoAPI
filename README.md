@@ -1,9 +1,6 @@
 Connecting to Cosmos DB Mongo API from Qlik Sense using the Qlik MongoDB
 Connector
 
-Qlik Partner Engineering: October 2018
-David Freriks: Technology Evangelist
-
 COSMOS DB OVERVIEW
 
 ![](/media/image2.png)
