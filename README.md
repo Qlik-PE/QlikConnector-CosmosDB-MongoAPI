@@ -1,0 +1,1 @@
+# QlikConnector-CosmosDB-MongoAPI
